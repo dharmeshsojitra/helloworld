@@ -1,6 +1,8 @@
 mvnw.cmd
 mvnw
 .mvn/
+.gitignore
+debug.log
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
